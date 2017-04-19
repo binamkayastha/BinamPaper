@@ -9,3 +9,7 @@ An easy way to do this use use lxappearance:
  - Install and open lxappearance.
  - Select BinamPaper (lxappearance should automatically detect the theme since it's in the .themes folder in your home directory)
 
+# Todo
+
+- [x] Fix Firefox forms issue (see  [FirefoxFix](FirefoxFix.md)
+- [ ] Fix eclipse issues
