@@ -11,5 +11,5 @@ An easy way to do this use use lxappearance:
 
 # Todo
 
-- [x] Fix Firefox forms issue (see  [FirefoxFix](FirefoxFix.md)
+- [x] Fix Firefox forms issue (see  [FirefoxFix](FirefoxFix.md))
 - [ ] Fix eclipse issues
