@@ -12,4 +12,4 @@ An easy way to do this use use lxappearance:
 # Todo
 
 - [x] Fix Firefox forms issue (see  [FirefoxFix](FirefoxFix.md))
-- [ ] Fix eclipse issues
+- [x] Fix eclipse issues (Window > Preferences > General > Appearance > Theme: > Dark)
