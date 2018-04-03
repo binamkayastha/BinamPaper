@@ -1,4 +1,4 @@
-# BinamPaper
+# BinamPaper [Done]
 
 Binam Paper is a work in progress dark gtk theme inspired by Paper GTK, and works well with the Paper GTK icons.
 
@@ -9,7 +9,7 @@ An easy way to do this use use lxappearance:
  - Install and open lxappearance.
  - Select BinamPaper (lxappearance should automatically detect the theme since it's in the .themes folder in your home directory)
 
-# Todo
+# Fixes
 
-- [x] Fix Firefox forms issue (see  [FirefoxFix](FirefoxFix.md))
-- [x] Fix eclipse issues (Window > Preferences > General > Appearance > Theme: > Dark)
+- For Firefox forms issue (see  [FirefoxFix](FirefoxFix.md))
+- For Eclipse issues (Window > Preferences > General > Appearance > Theme: > Dark)
